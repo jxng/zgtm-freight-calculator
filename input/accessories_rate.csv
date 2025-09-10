@@ -1,0 +1,6 @@
+shipping_name,method_group,postal_code,shipping_class,fee,min_price
+Free Shipping,1,0000-9999,free-shipping,0,
+Standard Shipping,1,0000-9999,small-satchel,5,
+Standard Shipping,1,0000-9999,small-accessories,10,
+Standard Shipping (With Pellets),1,0000-9999,pellet,40,
+Standard Shipping,1,0000-9999,medium-accessories,17,
